@@ -56,13 +56,13 @@ body {
 }
 
 .author-name {
-  font-size: 1.2rem;
+  font-size: 1rem;
   padding-bottom: 0.2rem;
   font-family: 300;
 }
 
 .author-designation {
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #fcfcfcbf;
   font-family: 200;
 }
@@ -78,8 +78,8 @@ body {
 
 .tm-head {
   font-weight: 600;
-  font-size: 1.7rem;
-  line-height: 2rem;
+  font-size: 1.5rem;
+  line-height: auto;
   padding: 1rem 0 1rem 0;
 }
 
@@ -89,8 +89,8 @@ body {
 .tm-body {
   color: rgba(255, 255, 255, 0.7);
   font-weight: 300;
-  font-size: 1.3rem;
-  line-height: 1.8rem;
+  font-size: 1.2rem;
+  line-height: auto;
 }
 
 #tm-item-3 .tm-body, #tm-item-5 .tm-body{
