@@ -101,7 +101,14 @@ body {
   color: #fff;
   background-color: #733fc8;
   grid-column: 1/3;
+  position: relative;
 }
+#tm-item-1 .quotation {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 #tm-item-2 {
   color: #fff;
   background-color: #49556b;
