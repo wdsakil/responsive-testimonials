@@ -106,7 +106,10 @@ body {
 #tm-item-1 .quotation {
   position: absolute;
   top: 0;
-  right: 0;
+  right: 3rem;
+  z-index: -1;
+  height: 150px;
+  opacity: 50%;
 }
 
 #tm-item-2 {
